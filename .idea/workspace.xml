@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="тестовый коммит">
+    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="адание 5-19237 с переводом в троичную систему счисления">
       <change beforePath="$PROJECT_DIR$/егкр-21-12-24/task-5-19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/егкр-21-12-24/task-5-19237.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,12 +85,29 @@
       <option name="project" value="LOCAL" />
       <updated>1735058122885</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="тестовый коммит">
+      <option name="closed" value="true" />
+      <created>1735059338567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059338567</updated>
+    </task>
+    <task id="LOCAL-00004" summary="адание 5-19237 с переводом в троичную систему счисления">
+      <option name="closed" value="true" />
+      <created>1735059467065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059467065</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="print" />
     <MESSAGE value="тестовый коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="тестовый коммит" />
+    <MESSAGE value="адание 5-19237 с переводом в троичную систему счисления" />
+    <option name="LAST_COMMIT_MESSAGE" value="адание 5-19237 с переводом в троичную систему счисления" />
   </component>
 </project>
