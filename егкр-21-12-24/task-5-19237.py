@@ -19,6 +19,3 @@ for N in range(1, 10000):
         ans.append(R)
 print(min(ans))
 
-
-#номер 14
-
