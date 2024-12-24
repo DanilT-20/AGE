@@ -7,3 +7,4 @@ for x in alph[:25]:
     if num % 24 == 0:
         ans.append([x, num // 24])
 print(max(ans))
+
