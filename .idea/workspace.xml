@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="адание 14-19246 импортирование из строки и работа с переводом слагаемых из 25ричной системы">
-      <change beforePath="$PROJECT_DIR$/егкр-21-12-24/task-14-19246.py" beforeDir="false" afterPath="$PROJECT_DIR$/егкр-21-12-24/task-14-19246.py" afterDir="false" />
+    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="адание 5-19237 с переводом в троичную систему счисления">
+      <change afterPath="$PROJECT_DIR$/егкр-21-12-24/task-14-19246.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,30 +111,13 @@
       <option name="project" value="LOCAL" />
       <updated>1735059548289</updated>
     </task>
-    <task id="LOCAL-00006" summary="адание 14-19246 импортирование из строки и работа с переводом слагаемых из 25ричной системы">
-      <option name="closed" value="true" />
-      <created>1735060311695</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1735060311695</updated>
-    </task>
-    <task id="LOCAL-00007" summary="адание 14-19246 импортирование из строки и работа с переводом слагаемых из 25ричной системы">
-      <option name="closed" value="true" />
-      <created>1735060538581</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1735060538581</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="print" />
     <MESSAGE value="тестовый коммит" />
     <MESSAGE value="адание 5-19237 с переводом в троичную систему счисления" />
-    <MESSAGE value="адание 14-19246 импортирование из строки и работа с переводом слагаемых из 25ричной системы" />
-    <option name="LAST_COMMIT_MESSAGE" value="адание 14-19246 импортирование из строки и работа с переводом слагаемых из 25ричной системы" />
+    <option name="LAST_COMMIT_MESSAGE" value="адание 5-19237 с переводом в троичную систему счисления" />
   </component>
 </project>
