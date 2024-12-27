@@ -1,6 +1,6 @@
 from turtle import *
 tracer(0)
-m = 6
+m = 8
 
 for x in range(8):
     fd(16*m)
@@ -18,3 +18,6 @@ for x in range(8):
     rt(90)
     fd(77*m)
     rt(90)
+
+update()
+done()
