@@ -1,7 +1,7 @@
 from itertools import permutations
-graph = 'CE CF CG GE GA AD DB BE BF FE'.split()
-matrix = '47 357 2567 16 236 345 123'.split()
+graph = 'AB AC AG EB ED CB CF HD HG FD'.split()
+matrix = '56 378  26 68 17 134 258 247'.split()
 print(*range(1, 8))
-for i in permutations('ABCDEFG'):
+for i in permutations('ABCDEFGH'):
     if all(str(i.index(x) + 1) in matrix[i.index(y)] for x, y in graph):
         print(*i)
