@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение 2 задания с помощью кода">
-      <change afterPath="$PROJECT_DIR$/егкр-10-01-2025/task-9-спробника.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение 9 задания с помощью кода" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736526998528</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="решение 9 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1736529316932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736529316932</updated>
+    </task>
+    <task id="LOCAL-00014" summary="решение 9 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1736529327644</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736529327644</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +196,7 @@
     <MESSAGE value="адание 5-19237 с переводом в троичную систему счисления" />
     <MESSAGE value="решение 1 задания с помощью кода" />
     <MESSAGE value="решение 2 задания с помощью кода" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 2 задания с помощью кода" />
+    <MESSAGE value="решение 9 задания с помощью кода" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 9 задания с помощью кода" />
   </component>
 </project>
