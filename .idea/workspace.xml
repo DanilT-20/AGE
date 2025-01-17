@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение 2 задания с помощью кода">
-      <change beforePath="$PROJECT_DIR$/егкр-17-01-2025/task-2-11292.py" beforeDir="false" afterPath="$PROJECT_DIR$/егкр-17-01-2025/task-2-11292.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/егкр-17-01-2025/task-2-7667.py" beforeDir="false" afterPath="$PROJECT_DIR$/егкр-17-01-2025/task-2-7667.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/егкр-17-01-2025/task-2-9771.py" beforeDir="false" afterPath="$PROJECT_DIR$/егкр-17-01-2025/task-2-9771.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,8 @@
     "Python.task-14-19246.executor": "Run",
     "Python.task-17-спробника.executor": "Run",
     "Python.task-2-11292.executor": "Run",
+    "Python.task-2-13089.executor": "Run",
+    "Python.task-2-18917.executor": "Run",
     "Python.task-2-7667.executor": "Run",
     "Python.task-2-9771.executor": "Run",
     "Python.task-2-спробника.executor": "Run",
@@ -225,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737133711832</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="решение 2 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737133761391</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737133761391</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
