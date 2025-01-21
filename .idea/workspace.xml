@@ -55,8 +55,10 @@
     "Python.task-14-19246.executor": "Run",
     "Python.task-17-спробника.executor": "Run",
     "Python.task-2-11292.executor": "Run",
+    "Python.task-2-13077.executor": "Run",
     "Python.task-2-13089.executor": "Run",
     "Python.task-2-18917.executor": "Run",
+    "Python.task-2-4459.executor": "Run",
     "Python.task-2-7667.executor": "Run",
     "Python.task-2-9771.executor": "Run",
     "Python.task-2-спробника.executor": "Run",
@@ -233,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737133761391</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="решение 2 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737136874552</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737136874552</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
