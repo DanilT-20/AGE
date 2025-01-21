@@ -6,7 +6,7 @@ def f(A):
                 return 0
     return 1
 ans = []
-for A in range(1, 100):
+for A in range(1, 16):
     if f(A):
         ans.append(A)
 print(max(ans))
