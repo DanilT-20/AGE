@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение 15 задания с помощью кода">
+    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение 8 задания с помощью кода и генератора">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз-14-01-25/task-8-11292.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз-14-01-25/task-8-11292.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +277,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737481822698</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="решение 2 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737652797716</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737652797716</updated>
+    </task>
+    <task id="LOCAL-00024" summary="решение 5 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737652813450</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1737652813450</updated>
+    </task>
+    <task id="LOCAL-00025" summary="решение 8 задания с помощью кода и генератора">
+      <option name="closed" value="true" />
+      <created>1737652838983</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737652838983</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,8 +311,10 @@
     <MESSAGE value="решение 1 задания с помощью кода" />
     <MESSAGE value="решение 9 задания с помощью кода" />
     <MESSAGE value="решение 17 задания с помощью кода" />
-    <MESSAGE value="решение 2 задания с помощью кода" />
     <MESSAGE value="решение 15 задания с помощью кода" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 15 задания с помощью кода" />
+    <MESSAGE value="решение 2 задания с помощью кода" />
+    <MESSAGE value="решение 5 задания с помощью кода" />
+    <MESSAGE value="решение 8 задания с помощью кода и генератора" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 8 задания с помощью кода и генератора" />
   </component>
 </project>
