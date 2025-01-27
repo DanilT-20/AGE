@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение заданий варианта егэ">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение заданий варианта егэ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -314,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737656054287</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="решение заданий варианта егэ">
+      <option name="closed" value="true" />
+      <created>1737929647314</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1737929647314</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -328,6 +334,7 @@
     <MESSAGE value="решение 2 задания с помощью кода" />
     <MESSAGE value="решение 5 задания с помощью кода" />
     <MESSAGE value="решение 8 задания с помощью кода и генератора" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 8 задания с помощью кода и генератора" />
+    <MESSAGE value="решение заданий варианта егэ" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение заданий варианта егэ" />
   </component>
 </project>
