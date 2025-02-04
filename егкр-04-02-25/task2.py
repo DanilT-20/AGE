@@ -5,3 +5,4 @@ for v in set(permutations('КИДАЛА', 5)):
     if 'АА' not in v:
         count += 1
 print(count)
+

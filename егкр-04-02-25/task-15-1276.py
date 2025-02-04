@@ -12,3 +12,4 @@ for A1, A2 in combinations(line, 2):
 print(max(ans))
 
 
+

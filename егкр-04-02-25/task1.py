@@ -8,3 +8,4 @@ for v in product(alph[:20], repeat=5):
         if int(v[0], 20) + int(v[-1], 20) == 26 and v[0] != 0:
             count += 1
 print(count)
+

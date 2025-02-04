@@ -17,3 +17,4 @@ for N in range(1, 10000):
     if R < 1996:
         ans.append(R)
 print(max(ans))
+
