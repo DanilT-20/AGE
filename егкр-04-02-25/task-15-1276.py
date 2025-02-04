@@ -10,3 +10,5 @@ for A1, A2 in combinations(line, 2):
     if all(f(x) for x in line):
         ans.append(A2 - A1)
 print(max(ans))
+
+
