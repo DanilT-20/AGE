@@ -11,4 +11,3 @@ for A in range(1, 1000):
         ans.append(A)
 print(ans[-1])
 
-
