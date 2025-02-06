@@ -13,3 +13,4 @@ for v in permutations('хочу в вуз'):
         count += 1
 print(count)
 
+
