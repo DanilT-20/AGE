@@ -17,3 +17,4 @@ for v1 in '0123456789':
 ans = sorted(ans)
 for i in ans:
     print(*i)
+
