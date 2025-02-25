@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение заданий варианта егэ" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DanilT-20&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DanilT-20/AGE.git&quot;,
+    &quot;accountId&quot;: &quot;f999056a-8593-460f-855d-9ad8f23f536f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qfcYWwc19OApGbPafSRYZlgdSy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.fgj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-1845.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-4581.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-4606.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-9732.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-9770.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-14-19246.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-15-18266.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-15-1859.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-15-19247.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-15-4595.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-15-4620.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-15-9746.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-спробника.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-11292.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-13077.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-13089.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-17621.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-17665.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-18576.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-18917.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-19234.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-4459.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-454.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-7667.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-78.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-816.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-960.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-9771.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-спробника.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-5-14330.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-5-19237.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-8-11292.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-9-спробника.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Данил\PycharmProjects\AGE\дз-26-01-25" />
+      <recent name="C:\Users\DTolstyh\Desktop\AGE\егкр-10-01-2025" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="" />
+      <created>1735057118731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735057118731</updated>
+    </task>
+    <task id="LOCAL-00001" summary="print">
+      <option name="closed" value="true" />
+      <created>1735057559777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735057559777</updated>
+    </task>
+    <task id="LOCAL-00002" summary="тестовый коммит">
+      <option name="closed" value="true" />
+      <created>1735058122885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735058122885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="тестовый коммит">
+      <option name="closed" value="true" />
+      <created>1735059338567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059338567</updated>
+    </task>
+    <task id="LOCAL-00004" summary="адание 5-19237 с переводом в троичную систему счисления">
+      <option name="closed" value="true" />
+      <created>1735059467065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059467065</updated>
+    </task>
+    <task id="LOCAL-00005" summary="адание 5-19237 с переводом в троичную систему счисления">
+      <option name="closed" value="true" />
+      <created>1735059548289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059548289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="решение 1 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1735319048134</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735319048134</updated>
+    </task>
+    <task id="LOCAL-00007" summary="решение 1 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1735319922530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735319922530</updated>
+    </task>
+    <task id="LOCAL-00008" summary="решение 1 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1735320408957</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735320408957</updated>
+    </task>
+    <task id="LOCAL-00009" summary="решение 1 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1735320803064</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735320803064</updated>
+    </task>
+    <task id="LOCAL-00010" summary="решение 1 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1735321907658</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735321907658</updated>
+    </task>
+    <task id="LOCAL-00011" summary="решение 2 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1736526981330</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736526981330</updated>
+    </task>
+    <task id="LOCAL-00012" summary="решение 2 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1736526998528</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736526998528</updated>
+    </task>
+    <task id="LOCAL-00013" summary="решение 9 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1736529316932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736529316932</updated>
+    </task>
+    <task id="LOCAL-00014" summary="решение 9 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1736529327644</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736529327644</updated>
+    </task>
+    <task id="LOCAL-00015" summary="решение 9 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1736529747655</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736529747655</updated>
+    </task>
+    <task id="LOCAL-00016" summary="решение 17 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1736531313707</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736531313707</updated>
+    </task>
+    <task id="LOCAL-00017" summary="решение 2 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737133711832</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737133711832</updated>
+    </task>
+    <task id="LOCAL-00018" summary="решение 2 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737133761391</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737133761391</updated>
+    </task>
+    <task id="LOCAL-00019" summary="решение 2 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737136874552</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737136874552</updated>
+    </task>
+    <task id="LOCAL-00020" summary="решение 15 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737480184600</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737480184600</updated>
+    </task>
+    <task id="LOCAL-00021" summary="решение 15 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737481000742</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1737481000742</updated>
+    </task>
+    <task id="LOCAL-00022" summary="решение 15 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737481822698</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1737481822698</updated>
+    </task>
+    <task id="LOCAL-00023" summary="решение 2 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737652797716</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737652797716</updated>
+    </task>
+    <task id="LOCAL-00024" summary="решение 5 задания с помощью кода">
+      <option name="closed" value="true" />
+      <created>1737652813450</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1737652813450</updated>
+    </task>
+    <task id="LOCAL-00025" summary="решение 8 задания с помощью кода и генератора">
+      <option name="closed" value="true" />
+      <created>1737652838983</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737652838983</updated>
+    </task>
+    <task id="LOCAL-00026" summary="решение 8 задания с помощью кода и генератора">
+      <option name="closed" value="true" />
+      <created>1737656054287</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1737656054287</updated>
+    </task>
+    <task id="LOCAL-00027" summary="решение заданий варианта егэ">
+      <option name="closed" value="true" />
+      <created>1737929647314</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1737929647314</updated>
+    </task>
+    <task id="LOCAL-00028" summary="решение заданий варианта егэ">
+      <option name="closed" value="true" />
+      <created>1737973385050</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1737973385050</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="print" />
+    <MESSAGE value="тестовый коммит" />
+    <MESSAGE value="адание 5-19237 с переводом в троичную систему счисления" />
+    <MESSAGE value="решение 1 задания с помощью кода" />
+    <MESSAGE value="решение 9 задания с помощью кода" />
+    <MESSAGE value="решение 17 задания с помощью кода" />
+    <MESSAGE value="решение 15 задания с помощью кода" />
+    <MESSAGE value="решение 2 задания с помощью кода" />
+    <MESSAGE value="решение 5 задания с помощью кода" />
+    <MESSAGE value="решение 8 задания с помощью кода и генератора" />
+    <MESSAGE value="решение заданий варианта егэ" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение заданий варианта егэ" />
+  </component>
+</project>
