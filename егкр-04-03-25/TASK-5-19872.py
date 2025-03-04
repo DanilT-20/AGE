@@ -18,3 +18,4 @@ for n in range(1, 1001):
     if len(r) == 4:
         print(n)
 
+

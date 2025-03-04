@@ -7,3 +7,4 @@ def f(n):
         return f(n -2) + 2 * n - 2
 print(f(34))
 
+
