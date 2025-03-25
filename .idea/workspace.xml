@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение 16 заданий кодом">
-      <change afterPath="$PROJECT_DIR$/самостоятельная/ask-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/самостоятельная/task-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/самостоятельная/task-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/самостоятельная/task-15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/самостоятельная/task-16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/самостоятельная/task-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/самостоятельная/task-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/самостоятельная/task-8.py" afterDir="false" />
+    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение заданий кодом">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +49,13 @@
   "keyToString": {
     "Python.67.executor": "Run",
     "Python.fgj.executor": "Run",
+    "Python.task-.executor": "Run",
     "Python.task-1-1845.executor": "Run",
     "Python.task-1-4581.executor": "Run",
     "Python.task-1-4606.executor": "Run",
     "Python.task-1-9732.executor": "Run",
     "Python.task-1-9770.executor": "Run",
+    "Python.task-12.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-14-2.executor": "Run",
     "Python.task-14.executor": "Run",
@@ -110,6 +104,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DTolstyh\Desktop\AGE\25-03-25" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\егкр-21-03-25" />
       <recent name="C:\Users\Данил\PycharmProjects\AGE\дз-26-01-25" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\егкр-10-01-2025" />
@@ -371,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741110970228</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="решение заданий кодом">
+      <option name="closed" value="true" />
+      <created>1742575341325</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1742575341325</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -387,6 +390,7 @@
     <MESSAGE value="решение 8 задания с помощью кода и генератора" />
     <MESSAGE value="решение заданий варианта егэ" />
     <MESSAGE value="решение 16 заданий кодом" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 16 заданий кодом" />
+    <MESSAGE value="решение заданий кодом" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение заданий кодом" />
   </component>
 </project>
