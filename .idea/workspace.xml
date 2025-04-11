@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="решение 9 задани кодом">
+    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/11-04-25/task-13-11790.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-04-25/task-13-11791.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-04-25/task-13-11794.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-04-25/task-13-11835.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-04-25/task-13-17526.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-04-25/task-13-17554.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-04-25/task-13-17632.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-04-25/task-13-17676.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +63,14 @@
     "Python.task-1-9732.executor": "Run",
     "Python.task-1-9770.executor": "Run",
     "Python.task-11.executor": "Run",
+    "Python.task-13-11790.executor": "Run",
+    "Python.task-13-11791.executor": "Run",
+    "Python.task-13-11794.executor": "Run",
+    "Python.task-13-11835.executor": "Run",
+    "Python.task-13-17526.executor": "Run",
+    "Python.task-13-17554.executor": "Run",
+    "Python.task-13-17632.executor": "Run",
+    "Python.task-13-17676.executor": "Run",
     "Python.task-14-1.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-14-2.executor": "Run",
@@ -94,6 +110,7 @@
     "Python.task-23-9844.executor": "Run",
     "Python.task-23.executor": "Run",
     "Python.task-25.executor": "Run",
+    "Python.task-26.executor": "Run",
     "Python.task-5-14330.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "Python.task-5.executor": "Run",
@@ -396,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743789220285</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="1">
+      <option name="closed" value="true" />
+      <created>1744135276445</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1744135276445</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -414,6 +439,7 @@
     <MESSAGE value="решение 16 заданий кодом" />
     <MESSAGE value="решение 19-21 заданий кодом" />
     <MESSAGE value="решение 9 задани кодом" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 9 задани кодом" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
