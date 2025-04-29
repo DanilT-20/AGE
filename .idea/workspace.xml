@@ -112,8 +112,11 @@
     "Python.task-23-9844.executor": "Run",
     "Python.task-23.executor": "Run",
     "Python.task-24.executor": "Run",
+    "Python.task-25-2.executor": "Run",
     "Python.task-25.executor": "Run",
     "Python.task-26.executor": "Run",
+    "Python.task-27-b.executor": "Run",
+    "Python.task-27.executor": "Run",
     "Python.task-5-14330.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "Python.task-5.executor": "Run",
@@ -140,11 +143,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DTolstyh\Desktop\AGE\29-04-25" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\220425" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\18-04-25" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\08-04-25" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\04-04-25" />
-      <recent name="C:\Users\DTolstyh\Desktop\AGE\егкр-21-03-25" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -435,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745345249281</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="13 pflfybz">
+      <option name="closed" value="true" />
+      <created>1745603487232</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1745603487232</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
