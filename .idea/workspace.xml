@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="13 pflfybz">
+    <list default="true" id="3af47ba3-f237-4565-b381-3fb3fb337f29" name="Changes" comment="27 pflfybz">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-05-25/task-27-21932.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-05-25/task-27-21932.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +116,10 @@
     "Python.task-25-2.executor": "Run",
     "Python.task-25.executor": "Run",
     "Python.task-26.executor": "Run",
+    "Python.task-27-19566.executor": "Run",
+    "Python.task-27-19715.executor": "Run",
+    "Python.task-27-20497.executor": "Run",
+    "Python.task-27-21932.executor": "Run",
     "Python.task-27-b.executor": "Run",
     "Python.task-27.executor": "Run",
     "Python.task-5-14330.executor": "Run",
@@ -143,11 +148,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DTolstyh\Desktop\AGE\06-05-25" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\29-04-25" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\220425" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\18-04-25" />
       <recent name="C:\Users\DTolstyh\Desktop\AGE\08-04-25" />
-      <recent name="C:\Users\DTolstyh\Desktop\AGE\04-04-25" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -466,6 +471,7 @@
     <MESSAGE value="решение 9 задани кодом" />
     <MESSAGE value="1" />
     <MESSAGE value="13 pflfybz" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 pflfybz" />
+    <MESSAGE value="27 pflfybz" />
+    <option name="LAST_COMMIT_MESSAGE" value="27 pflfybz" />
   </component>
 </project>
