@@ -1,0 +1,4 @@
+from fnmatch import fnmatch
+for i in range(10101011 - 10101011%2023, 10**10, 2023):
+    if sum(map(int, str(i))) == 22 and fnmatch(str(i), '1?1?1?1*1'):
+        print(i)
