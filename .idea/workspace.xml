@@ -116,12 +116,25 @@
     "Python.task-2-960.executor": "Run",
     "Python.task-2-9771.executor": "Run",
     "Python.task-2-спробника.executor": "Run",
+    "Python.task-23-17640.executor": "Run",
+    "Python.task-23-17877.executor": "Run",
+    "Python.task-23-21420.executor": "Run",
+    "Python.task-23-21716.executor": "Run",
     "Python.task-23-4626.executor": "Run",
     "Python.task-23-9790.executor": "Run",
     "Python.task-23-9844.executor": "Run",
     "Python.task-23.executor": "Run",
+    "Python.task-25-10106.executor": "Run",
     "Python.task-25-12255.executor": "Run",
+    "Python.task-25-17564.executor": "Run",
+    "Python.task-25-17686.executor": "Run",
+    "Python.task-25-19775.executor": "Run",
+    "Python.task-25-20814.executor": "Run",
+    "Python.task-25-21422.executor": "Run",
+    "Python.task-25-21718.executor": "Run",
+    "Python.task-25-9846.executor": "Run",
     "Python.task-25.executor": "Run",
+    "Python.task-27-17882.executor": "Run",
     "Python.task-5-14330.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "Python.task-5.executor": "Run",
@@ -445,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749135563700</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="шпоргалка">
+      <option name="closed" value="true" />
+      <created>1749209078951</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1749209078951</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
